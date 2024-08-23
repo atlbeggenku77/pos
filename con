@@ -25,4 +25,4 @@ trialJobSpec:
       bootDiskType: pd-ssd
       bootDiskSizeGb: 100
     containerSpec:
-      imageUri: gcr.io/qwiklabs-gcp-02-d49d86101ec8/moso:cok
+      imageUri: gcr.io/qwiklabs-gcp-00-86d32d629460/moso:cok
