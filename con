@@ -7,11 +7,11 @@ studySpec:
   - parameterId: learning_rate
     doubleValueSpec:
       minValue: 0.01
-      maxValue: 2
+      maxValue: 1
   - parameterId: momentum
     doubleValueSpec:
       minValue: 0
-      maxValue: 2
+      maxValue: 1
   - parameterId: num_neurons
     discreteValueSpec:
       values: [512]
