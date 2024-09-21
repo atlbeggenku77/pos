@@ -25,4 +25,4 @@ trialJobSpec:
       bootDiskType: pd-ssd
       bootDiskSizeGb: 100
     containerSpec:
-      imageUri: gcr.io/qwiklabs-gcp-01-0b8902378a1a/doni:nipu
+      imageUri: gcr.io/qwiklabs-gcp-01-51050a517541/doni:nipu
