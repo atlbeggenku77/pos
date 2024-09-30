@@ -14,7 +14,7 @@ studySpec:
       maxValue: 1
   - parameterId: num_neurons
     discreteValueSpec:
-      values: [2000]
+      values: [1000]
   algorithm: RANDOM_SEARCH
 trialJobSpec:
   workerPoolSpecs:
@@ -25,4 +25,4 @@ trialJobSpec:
       bootDiskType: pd-ssd
       bootDiskSizeGb: 100
     containerSpec:
-      imageUri: gcr.io/qwiklabs-gcp-02-e4f21fbfa7c9/hari:baik
+      imageUri: gcr.io/qwiklabs-gcp-00-5971b20a5257/hari:baik
